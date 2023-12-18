@@ -1,16 +1,9 @@
 {
-  "name": "dataextract",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10",
-    "grunt": "^1.4.1",
-    "https": "^1.0.0"
+    "cheerio": "^1.0.0-rc.12",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.3"
   }
 }
